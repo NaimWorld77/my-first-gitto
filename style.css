@@ -1,0 +1,18 @@
+.head{
+    font-size: 200%;
+    text-align: center;
+    color: rgb(0, 255, 76);
+}
+.p-tag{
+    color: rgb(238, 15, 201);
+    border: solid .5em rgb(230, 97, 36);
+    padding: 10px;
+    text-align: justify;
+
+}
+img{
+    width: 1485px;
+    height: 500px;
+    border-radius: 1em;
+    border: solid red 5px;
+}
